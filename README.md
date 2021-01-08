@@ -2,6 +2,10 @@
 
 Este app é um clone do counter do Flutter, foi reescrito e adicionado novas funcionalidades como: botão de incremento e decremento, botão de refresh, alertdialog e switch para alternar entre os temas light e dark
 
+# Imagens do App
+
+![](asset/assets/images/proj_01.PNG) ![](asset/assets/images/proj_02.PNG) ![](asset/assets/images/proj_03.PNG)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
