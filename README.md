@@ -1,6 +1,6 @@
-# ola_mundo
+# Clone Counter Flutter
 
-A new Flutter project.
+Este app é um clone do counter do Flutter, foi reescrito e adicionado novas funcionalidades como: botão de incremento e decremento, botão de refresh, alertdialog e switch para alternar entre os temas light e dark
 
 ## Getting Started
 
