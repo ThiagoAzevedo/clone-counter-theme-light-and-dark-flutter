@@ -4,7 +4,7 @@ Este app é um clone do counter do Flutter, foi reescrito e adicionado novas fun
 
 # Imagens do App
 
-![](asset/assets/images/proj_01.PNG) ![](asset/assets/images/proj_02.PNG) ![](asset/assets/images/proj_03.PNG)
+![](assets/images/proj_01.PNG) ![](assets/images/proj_02.PNG) ![](assets/images/proj_03.PNG)
 
 ## Getting Started
 
